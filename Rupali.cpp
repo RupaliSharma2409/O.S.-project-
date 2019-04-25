@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using std::cin;
 using std::cout;
-using std::endl
+using std::endl;
 
 #define MAX 10
 #define pb push_back
